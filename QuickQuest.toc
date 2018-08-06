@@ -1,0 +1,14 @@
+## Interface: 33000
+## Author: p3lim
+## Version: 50400.14-Release
+## Title: QuickQuest
+## Notes: Quest automization wizardry
+## SavedVariables: QuickQuestDB
+## X-Curse-Packaged-Version: 50400.14-Release
+## X-Curse-Project-Name: QuickQuest
+## X-Curse-Project-ID: quickquest
+## X-Curse-Repository-ID: wow/quickquest/mainline
+
+Localization.lua
+Config.lua
+QuickQuest.lua
